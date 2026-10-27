@@ -42,3 +42,4 @@ docker compose down
 # customer-spending-insights-api
 # customer-spending-insights-api
 # Customer-Spening-Insights-Api
+# Customer-Spening-Insights-Api

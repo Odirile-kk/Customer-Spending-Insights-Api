@@ -40,3 +40,4 @@ docker compose down
 - Seed data is created automatically when the backend starts.
 - The development seed runner clears existing customers, transactions, and goals before inserting sample data.
 # customer-spending-insights-api
+# customer-spending-insights-api
